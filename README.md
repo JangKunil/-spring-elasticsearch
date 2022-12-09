@@ -1,2 +1,2 @@
-# -spring-elasticsearch
+# spring-elasticsearch
 elasticsearch work hard ~! 💪
